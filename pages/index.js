@@ -595,6 +595,7 @@ h1.main{
       </Head>
 
       <main>
+	  <body>
 <h1 class="main">Quiz app in Vue</h1>
 <div id="quiz-app">
   <div class="status">
@@ -11948,7 +11949,7 @@ new Vue({
 
 </script>
 
-
+</body>
 
       </main>
 
